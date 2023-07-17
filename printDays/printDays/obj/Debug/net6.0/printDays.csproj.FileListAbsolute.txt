@@ -1,0 +1,15 @@
+D:\tasks\tasks7_iti\printDays\printDays\bin\Debug\net6.0\printDays.exe
+D:\tasks\tasks7_iti\printDays\printDays\bin\Debug\net6.0\printDays.deps.json
+D:\tasks\tasks7_iti\printDays\printDays\bin\Debug\net6.0\printDays.runtimeconfig.json
+D:\tasks\tasks7_iti\printDays\printDays\bin\Debug\net6.0\printDays.dll
+D:\tasks\tasks7_iti\printDays\printDays\bin\Debug\net6.0\printDays.pdb
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.csproj.AssemblyReference.cache
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.AssemblyInfoInputs.cache
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.AssemblyInfo.cs
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.csproj.CoreCompileInputs.cache
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.dll
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\refint\printDays.dll
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.pdb
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\printDays.genruntimeconfig.cache
+D:\tasks\tasks7_iti\printDays\printDays\obj\Debug\net6.0\ref\printDays.dll

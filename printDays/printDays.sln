@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printDays", "printDays\printDays.csproj", "{0E6D605E-98D3-4339-9677-5D3E2636D3FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6D605E-98D3-4339-9677-5D3E2636D3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6D605E-98D3-4339-9677-5D3E2636D3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6D605E-98D3-4339-9677-5D3E2636D3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6D605E-98D3-4339-9677-5D3E2636D3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2EFBE8C-E413-4814-AC21-2606F5FF4D5E}
+	EndGlobalSection
+EndGlobal
