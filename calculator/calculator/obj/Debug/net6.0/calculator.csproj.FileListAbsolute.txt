@@ -1,0 +1,15 @@
+D:\tasks\tasks4_iti\calculator\calculator\bin\Debug\net6.0\calculator.exe
+D:\tasks\tasks4_iti\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+D:\tasks\tasks4_iti\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+D:\tasks\tasks4_iti\calculator\calculator\bin\Debug\net6.0\calculator.dll
+D:\tasks\tasks4_iti\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.dll
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\refint\calculator.dll
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+D:\tasks\tasks4_iti\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll
